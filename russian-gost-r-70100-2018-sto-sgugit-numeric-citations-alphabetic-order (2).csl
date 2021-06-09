@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
@@ -20,7 +20,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>   За основу взят Russian GOST-2008 style.  из библиотеки стилей Roman Raspopov	</summary>
-    <updated>2021-06-07T04:43:27+00:00</updated>
+    <updated>2021-06-09T08:14:36+00:00</updated>
     <rights>This work is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported License  http://creativecommons.org/licenses/by-sa/3.0/</rights>
   </info>
   <locale xml:lang="en">
@@ -38,7 +38,7 @@
         <multiple>eds. &amp; trans.</multiple>
       </term>
       <term name="opus"> – Text : direct</term>
-      <term name="available at"></term>
+      <term name="available at"/>
     </terms>
   </locale>
   <locale xml:lang="ru">
@@ -132,7 +132,7 @@
   </macro>
   <macro name="author-title-medium">
     <choose>
-      <if variable="abstract">
+      <if variable="call-number">
         <text macro="if names of authors more than 3"/>
       </if>
       <else>
@@ -464,7 +464,7 @@
   </macro>
   <bibliography et-al-min="4" et-al-use-first="1" page-range-format="">
     <sort>
-      <key macro="language-sort"/>
+      <key macro="language-sort" sort="descending"/>
       <key macro="author-title"/>
       <key variable="issued"/>
     </sort>
