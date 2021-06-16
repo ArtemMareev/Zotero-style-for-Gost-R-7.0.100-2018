@@ -1,0 +1,533 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://doi.org/10.1007/BF00806743">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1432-1394"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abd-Elmotaal</foaf:surname>
+                        <foaf:givenName>Hussein</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Attraction of the topographic masses</dc:title>
+        <dc:date>December 1, 1995</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/BF00806743</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>304-307</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1432-1394">
+        <prism:volume>69</prism:volume>
+        <dc:title>Bulletin géodésique</dc:title>
+        <dc:identifier>DOI 10.1007/BF00806743</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Bulletin géodésique</dcterms:alternative>
+        <dc:identifier>ISSN 1432-1394</dc:identifier>
+    </bib:Journal>
+    <bib:Book rdf:about="urn:isbn:978-5-%209973-4489-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Москва</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Спутник+,</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Варламова</foaf:surname>
+                        <foaf:givenName>Л. Н.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Баюн</foaf:surname>
+                        <foaf:givenName>Л. С.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Бастрикова</foaf:surname>
+                        <foaf:givenName>К. А.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Управление документацией : англо-русский аннотированный словарь стандартизированной терминологии</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>ru</z:language>
+        <dc:identifier>ISBN 978-5- 9973-4489-4</dc:identifier>
+        <z:numPages>398</z:numPages>
+    </bib:Book>
+    <bib:Article rdf:about="#item_2254">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>25</prism:volume>
+                <dc:title>Вестник СГУГиТ</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Антонов</foaf:surname>
+                        <foaf:givenName>Е. С.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Геокогнитивные карты и технологии – новый этап в картографии</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>ru</z:language>
+        <bib:pages>140-150</bib:pages>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:978-5-16-012845-0">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Москва</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ИНФРА-М</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Багдасарян</foaf:surname>
+                        <foaf:givenName>В. Э.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Орлов</foaf:surname>
+                        <foaf:givenName>И. Б.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Катагошина</foaf:surname>
+                        <foaf:givenName>М. В.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Коротков</foaf:surname>
+                        <foaf:givenName>С. А.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>История сервиса : учебное пособие</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>ru</z:language>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>1</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-5-16-012845-0</dc:identifier>
+        <prism:edition>– 2-е изд. перераб. и доп.</prism:edition>
+        <z:numPages>337</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-5-94622-897-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Самара</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Изд-во Самар. гос. экон. ун-та</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Глухов</foaf:surname>
+                        <foaf:givenName>Г. В.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ефимова</foaf:surname>
+                        <foaf:givenName>Ю. И.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Петрянина</foaf:surname>
+                        <foaf:givenName>О. В.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Пяточков</foaf:surname>
+                        <foaf:givenName>И. Ю</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Табуреткин</foaf:surname>
+                        <foaf:givenName>В. В.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Теория и практика немецкой грамматики : учебное пособие</dc:title>
+        <dc:date>2019</dc:date>
+        <z:language>ru</z:language>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>1</rdf:value></dcterms:LCC>
+        </dc:subject>
+        <dc:identifier>ISBN 978-5-94622-897-8</dc:identifier>
+        <z:numPages>188</z:numPages>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:978-5-9948-2526-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Волгоград</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ВолгГТУ</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Жукова</foaf:surname>
+                        <foaf:givenName>Н. С.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Азаров</foaf:surname>
+                        <foaf:givenName>В. Н.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Инженерные системы и сооружения. Учебное пособие. В 3 частях. Часть 1. Отопление и вентиляция</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>ru</z:language>
+        <dc:identifier>ISBN 978-5-9948-2526-9</dc:identifier>
+        <prism:edition>Министерство образования и науки Российской Федерации ; Волгоградский государственный технический университет.</prism:edition>
+        <z:numPages>89</z:numPages>
+    </bib:Book>
+    <bib:Patent rdf:about="#item_2325">
+        <z:itemType>patent</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Российская Федерация</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:inventors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Артеменко</foaf:surname>
+                        <foaf:givenName>К. И.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Богданов</foaf:surname>
+                        <foaf:givenName>Н. Э.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:inventors>
+        <dc:title>Вибрационная мельница</dc:title>
+        <z:language>ru</z:language>
+        <dc:description>БГУ</dc:description>
+        <bib:pages>4</bib:pages>
+        <prism:number>2637215</prism:number>
+        <z:filingDate>15.02.2017</z:filingDate>
+        <z:applicationNumber>2017105030</z:applicationNumber>
+        <z:priorityNumbers>МПК В02С 19/16 (2006.01) В02С 17/00 (2006.01).</z:priorityNumbers>
+        <dc:date>12.01.2017</dc:date>
+    </bib:Patent>
+    <bib:Thesis rdf:about="#item_2326">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Санкт-Петербург</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Санкт-Петербургский государственный институт культуры</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Аврамова</foaf:surname>
+                        <foaf:givenName>Елена Викторовна</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Публичная библиотека в системе непрерывного библиотечно-информационного образования : специальность 05.25.03 «Библиотековедение, библиографоведение и книговедение»</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>ru</z:language>
+        <dc:description>Библиогр.: с. 296–335</dc:description>
+        <z:numPages>361</z:numPages>
+        <z:type>диссертация на соискание ученой степени кандидата педагогических наук</z:type>
+    </bib:Thesis>
+    <bib:Document rdf:about="http://government.ru">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Правительство Российской Федерации : официальный сайт.</dc:title>
+        <dcterms:abstract>Москва</dcterms:abstract>
+        <z:language>ru</z:language>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://government.ru</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-19</dcterms:dateSubmitted>
+        <z:type>– Обновляется в течение суток</z:type>
+    </bib:Document>
+    <rdf:Description rdf:about="#item_2328">
+        <z:itemType>encyclopediaArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>1. Геодезия, геоинформатика, картография, маркшейдерия, № 2.</prism:volume>
+                <dc:title>Интерэкспо ГЕО-Сибирь : XV Международный научный конгресс,  24-26 апр. 2019 г. ; Международная научная конференция : сборник материалов в 9 томах</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Новосибирск</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>СГУГиТ</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Касьянова</foaf:surname>
+                        <foaf:givenName>Е. Л.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Черкас</foaf:surname>
+                        <foaf:givenName>М. В.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Картографирование прав человека</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>ru</z:language>
+        <bib:pages>111–119</bib:pages>
+        <prism:edition>Сибирский государственный университет геосистем и технологий</prism:edition>
+    </rdf:Description>
+    <bib:Thesis rdf:about="#item_2330">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Москва</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Московский государственный университет им. М. В. Ломоносова</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Величковский</foaf:surname>
+                        <foaf:givenName>Борис Борисович</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Функциональная организация рабочей памяти : специальность 19.00.01 «Общая психология, психология личности, история психологии»</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>ru</z:language>
+        <z:numPages>44</z:numPages>
+        <z:type>автореферат диссертации на соискание ученой степени доктора психологических наук</z:type>
+    </bib:Thesis>
+    <bib:Document rdf:about="http://diss.rsl.ru/?lang=ru">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Российская государственная библиотека</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Электронная библиотека: библиотека диссертаций : [сайт]</dc:title>
+        <dcterms:abstract>Москва</dcterms:abstract>
+        <z:language>ru</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://diss.rsl.ru/?lang=ru</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-07-20</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="#item_2340">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Геодезия И Картография</dc:title>
+                <prism:number>10</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Астапович</foaf:surname>
+                        <foaf:givenName>А. В.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Сазонов</foaf:surname>
+                        <foaf:givenName>П. А.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Соколов</foaf:surname>
+                        <foaf:givenName>С. М.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Павлов</foaf:surname>
+                        <foaf:givenName>С. В.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Штейн</foaf:surname>
+                        <foaf:givenName>С. В.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Аномалия Высот</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Геодезическая Высота</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Каркасная Сеть</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Нормальная Высота</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Пространственная Система Координат Объекта</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Разбивочная Геодезическая Основа</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Сглаживающий Полином</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Сеть Постоянно Действующих Референцных Станций</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Средняя Квадратическая Погрешность</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Инновационный подход к построению опорных геодезических сетей линейных объектов</dc:title>
+        <dc:date>2015</dc:date>
+        <z:language>ru</z:language>
+        <dcterms:dateSubmitted>2021-06-08 11:09:39</dcterms:dateSubmitted>
+    </bib:Article>
+    <bib:Book rdf:about="urn:isbn:-975-3">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Новосибирск</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>СГУГиТ</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Шабурова</foaf:surname>
+                        <foaf:givenName>А. В.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Экономика труда : практикум</dc:title>
+        <dc:date>2016</dc:date>
+        <z:language>ru</z:language>
+        <dc:identifier>ISBN -975-3</dc:identifier>
+        <prism:edition>Сибирский государственный университет геосистем и технологий</prism:edition>
+        <z:numPages>203, [1]</z:numPages>
+    </bib:Book>
+</rdf:RDF>
